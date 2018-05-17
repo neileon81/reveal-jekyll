@@ -6,13 +6,12 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
+future:      true
 
 kramdown:
   smart_quotes: sbquo,lsquo,bdquo,ldquo
 
-#gems:
-#  - jemoji
-
+baseurl:     ""
 title:       re:claim your blog engine
 author:      Thomas Friese
 description: Presentation für die rp14
@@ -100,6 +99,10 @@ exclude: [
   "Gemfile",
   "Gemfile.lock",
   "vendor",
+  "README.md",
+  "LICENSE",
+  "default.nix",
+  "gemset.nix",
   "reveal.js/test",
   "reveal.js/index.html",
   "reveal.js/README.md",

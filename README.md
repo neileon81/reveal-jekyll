@@ -55,6 +55,7 @@ Clone [reveal-jekyll](//github.com/tasmo/reveal-jekyll) with submodule reveal.js
 
 ```shell
 git clone --recursive --depth 1 https://github.com/tasmo/reveal-jekyll.git
+git clone --recursive --depth 1 git@github.com:neileon81/reveal-jekyll.git
 ```
 
 …or just download the [zip file](//github.com/tasmo/reveal-jekyll/archive/master.zip).

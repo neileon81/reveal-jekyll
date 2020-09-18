@@ -54,7 +54,6 @@ Install [RubyGems](//rubygems.org/pages/download) for your system.
 Clone [reveal-jekyll](//github.com/tasmo/reveal-jekyll) with submodule reveal.js (recommended):
 
 ```shell
-git clone --recursive --depth 1 https://github.com/tasmo/reveal-jekyll.git
 git clone --recursive --depth 1 git@github.com:neileon81/reveal-jekyll.git
 ```
 
